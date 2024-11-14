@@ -1,0 +1,87 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: C:\Users\401838\Documents\GitHub\Heaven-s-Defense\Heavens_Defense-compile.map
+Output file: C:\Users\401838\Documents\GitHub\Heaven-s-Defense\Heavens_Defense.bsp
+
+INFO: using built-in palette.
+     2 entities
+     6 unique textures
+    51 texinfos
+    82 unique planes
+
+INFO: world extents calculated to 776 units
+     22 brushes
+    123 sides
+     38 side bevels
+
+            0 texture frames added
+WARNING: unable to find texture skip
+Processing hull 0...
+    21 SOLID brushes
+     1 SKY brushes
+    22 brushes total
+    123 visible sides
+INFO: calculating BSP for 22 brushes with 123 sides
+     22 brushes
+    123 visible faces
+    78 nodes
+    78 expensive split nodes
+    79 leaves
+    44 EMPTY leafs
+     2 SKY leafs
+    33 SOLID leafs
+    79 leafs total
+    15 max tree height
+     9 avg tree height
+    352 tree portals
+WARNING: Reached occupant "info_player_start" at (-32 -16 40), no filling performed.
+Leak file written to Heavens_Defense.pts
+            6 portals written to Heavens_Defense.leak.prt
+    352 tree portals
+    143 sides visible
+    143 makefaces
+     52 merged
+     25 subdivided
+    9 nodes pruned
+    44 EMPTY leafs
+     2 SKY leafs
+    24 SOLID leafs
+    70 leafs total
+    15 max tree height
+     9 avg tree height
+     63 edges added by tjunctions
+    113 faces optimized through MWT
+    289 triangles computed from MWT
+     14 faces created via optimization of MWT triangles
+    276 edges
+    130 faces
+Processing hull 1...
+WARNING: Reached occupant "info_player_start" at (-32 -16 40), no filling performed.
+Processing hull 2...
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 203 >= 127)
+Writing Heavens_Defense.bsp as Quake BSP bsp29
+Wrote Heavens_Defense.bsp
+
+count   lump name    byte size 
+      1 models               64
+     87 planes             1740
+    144 vertexes           1728
+     69 nodes              1656
+     37 texinfos           1480
+    130 faces              2600
+    359 clipnodes          2872
+     47 leafs              1316
+    161 marksurfaces        322
+    277 edges              1108
+    552 surfedges          2208
+      6 textures         114468
+        lightdata             0
+        visdata               0
+        entdata             319
+
+0.036s seconds elapsed
+
+
