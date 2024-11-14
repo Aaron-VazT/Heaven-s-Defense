@@ -8,56 +8,56 @@ Output file: C:\Users\401838\Documents\GitHub\Heaven-s-Defense\Heavens_Defense.b
 
 INFO: using built-in palette.
      2 entities
-     6 unique textures
-    51 texinfos
-    82 unique planes
+     7 unique textures
+    57 texinfos
+    86 unique planes
 
-INFO: world extents calculated to 776 units
-     22 brushes
-    123 sides
-     38 side bevels
+INFO: world extents calculated to 1385 units
+     23 brushes
+    130 sides
+     41 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    21 SOLID brushes
+    22 SOLID brushes
      1 SKY brushes
-    22 brushes total
-    123 visible sides
-INFO: calculating BSP for 22 brushes with 123 sides
-     22 brushes
-    123 visible faces
-    78 nodes
-    78 expensive split nodes
-    79 leaves
-    44 EMPTY leafs
+    23 brushes total
+    130 visible sides
+INFO: calculating BSP for 23 brushes with 130 sides
+     23 brushes
+    130 visible faces
+    82 nodes
+    82 expensive split nodes
+    83 leaves
+    47 EMPTY leafs
+    34 SOLID leafs
      2 SKY leafs
-    33 SOLID leafs
-    79 leafs total
+    83 leafs total
     15 max tree height
      9 avg tree height
-    352 tree portals
+    370 tree portals
 WARNING: Reached occupant "info_player_start" at (-32 -16 40), no filling performed.
 Leak file written to Heavens_Defense.pts
             6 portals written to Heavens_Defense.leak.prt
-    352 tree portals
-    143 sides visible
-    143 makefaces
+    370 tree portals
+    148 sides visible
+    148 makefaces
      52 merged
-     25 subdivided
+     31 subdivided
     9 nodes pruned
-    44 EMPTY leafs
+    47 EMPTY leafs
+    25 SOLID leafs
      2 SKY leafs
-    24 SOLID leafs
-    70 leafs total
+    74 leafs total
     15 max tree height
      9 avg tree height
-     63 edges added by tjunctions
-    113 faces optimized through MWT
-    289 triangles computed from MWT
-     14 faces created via optimization of MWT triangles
-    276 edges
-    130 faces
+     69 edges added by tjunctions
+    123 faces optimized through MWT
+    316 triangles computed from MWT
+     16 faces created via optimization of MWT triangles
+    303 edges
+    143 faces
 Processing hull 1...
 WARNING: Reached occupant "info_player_start" at (-32 -16 40), no filling performed.
 Processing hull 2...
@@ -67,21 +67,21 @@ Wrote Heavens_Defense.bsp
 
 count   lump name    byte size 
       1 models               64
-     87 planes             1740
-    144 vertexes           1728
-     69 nodes              1656
-     37 texinfos           1480
-    130 faces              2600
-    359 clipnodes          2872
-     47 leafs              1316
-    161 marksurfaces        322
-    277 edges              1108
-    552 surfedges          2208
-      6 textures         114468
+     95 planes             1900
+    158 vertexes           1896
+     73 nodes              1752
+     41 texinfos           1640
+    143 faces              2860
+    382 clipnodes          3056
+     50 leafs              1400
+    173 marksurfaces        346
+    304 edges              1216
+    606 surfedges          2424
+      7 textures         119952
         lightdata             0
         visdata               0
         entdata             319
 
-0.036s seconds elapsed
+0.028s seconds elapsed
 
 
