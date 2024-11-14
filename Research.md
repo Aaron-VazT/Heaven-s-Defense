@@ -1,4 +1,4 @@
-Looking at references from shows, video games, and other sources has helped me develop my theme and overall concept that I would like to develop for ym level as shown below. 
+Looking at references from shows, video games, and other sources has helped me develop my theme and overall concept that I would like to develop for my level as shown below. 
 
 **Real world References:**
 ![image](https://github.com/user-attachments/assets/dba32b1e-be45-4f7b-aabe-28c8b13acfaf)
